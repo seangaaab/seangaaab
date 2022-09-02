@@ -3,7 +3,7 @@
 
 
 # Hello there   <img src="https://c.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" height="60px"> <br> 
-<h3 font-size="36px" ><b>I'm <u>Sean</u></b><h3>
+<h3><b>I'm Sean</b><h3>
 
 #### Student | Front-End Developer
 
