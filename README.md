@@ -3,7 +3,7 @@
 
 
 # Hello there <img src="https://c.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" height="50px">
-# I'm Sean
+## I'm Sean
 #### Student | Front-End Developer
 
 
