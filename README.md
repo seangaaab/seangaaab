@@ -2,9 +2,8 @@
 
 
 
-# Hello there   <img src="https://c.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" height="60px">
-
-<h2>I'm Sean<h2>
+# Hello there   <img src="https://c.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" height="60px"> <br> 
+<h3>I'm Sean<h3>
 
 #### Student | Front-End Developer
 
