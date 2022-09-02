@@ -2,8 +2,7 @@
 
 
 
-# Hello there   <img src="https://c.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" height="60px"> <br> 
-<h3>I'm Sean<h3>
+# Hello there   <img src="https://c.tenor.com/3zYTjSu1N9AAAAAi/kenobi-pog.gif" height="60px"> <br> I'm Sean
 
 #### Student | Front-End Developer
 
@@ -55,7 +54,7 @@ Skills: HTML / CSS / JAVASCRIPT / REACT.JS
 
 ### ✨ Recent Tech Activities
 
-- Participated during the <b>TechStars Startup Weekend Davao: Smart Cities</b>, where we pitched our startup idea, <b>Alerto: an emergency services app</b>. Worked as one of the UI/UX designer for the app.
+- Participated during the <b>TechStars Startup Weekend Davao: Smart Cities</b>, where we pitched our startup idea, <b><i>Alerto</i></b>, an emergency services app. Worked as one of the UI/UX designer for the app.
 
 
 
