@@ -56,6 +56,9 @@ Skills: HTML / CSS / JAVASCRIPT / REACT.JS
 ### ✨ Recent Tech Activities
 
 - Participated during the <b>TechStars Startup Weekend Davao: Smart Cities</b>, where we pitched our startup idea, <b><i>Alerto</i></b>, an emergency services app. Worked as one of the UI/UX designer for the app.
+  
+- Attended <b>Google Developers Group Davao Devfest 2022</b>. We also presented our project <b><i>Nounce</i></b>, a proximity based chat app.
+Worked as one of the full stack developers for the app. [Nounce](gdg-project-nounce.web.app)
 
 
 
